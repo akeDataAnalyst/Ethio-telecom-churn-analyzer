@@ -2,7 +2,7 @@
 
 This repository houses an end-to-end Machine Learning solution designed to combat customer churn for Ethio Telecom. The project moves beyond prediction to deliver **actionable, data-backed retention strategies** derived from deep analysis of service quality and infrastructure data.
 
-## 🔗 Live Application & Overview
+##  Live Application & Overview
 
 The Streamlit web application allows retention teams to input customer profiles and receive real-time churn risk predictions and customized intervention tactics.
 
@@ -10,7 +10,7 @@ The Streamlit web application allows retention teams to input customer profiles 
 
 ---
 
-## 📊 Model Evaluation and Business Efficiency
+## Model Evaluation and Business Efficiency
 
 The project focused on selecting a model that prioritizes the efficient use of the retention budget. The **XGBoost Classifier** was chosen for its superior performance on the crucial business metric: Precision.
 
@@ -24,7 +24,7 @@ The XGBoost Classifier is confirmed as the production model due to its high prec
 
 ---
 
-## 📈 CORE CHURN DRIVERS & FEATURE IMPORTANCE
+##  CORE CHURN DRIVERS & FEATURE IMPORTANCE
 
 The analysis reveals that **operational and infrastructure factors** are overwhelmingly more predictive of churn than traditional commercial factors like price or contract length.
 
@@ -38,7 +38,7 @@ The analysis reveals that **operational and infrastructure factors** are overwhe
 
 ---
 
-## 💡 Strategic & Actionable Recommendations
+##  Strategic & Actionable Recommendations
 
 These recommendations translate the model's insights into direct business action items.
 
@@ -60,7 +60,7 @@ These recommendations translate the model's insights into direct business action
 
 ---
 
-## 💻 Technical Setup and Project Structure
+##  Technical Setup and Project Structure
 
 Follow these steps to set up and run the Streamlit application locally.
 
